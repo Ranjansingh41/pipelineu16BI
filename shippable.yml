@@ -8,4 +8,4 @@ build:
     
     
   ci:
-     - java -version
+     - nodejs --version
